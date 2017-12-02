@@ -105,7 +105,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 553f5c7181776714fa2ecdc6fa70d230, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  nBarTiming: 1
+  nBarTiming: 2
   mPos: {x: 0, y: 0, z: 0}
   mScl: {x: 0, y: 0, z: 0}
   velocity: {x: 0, y: 0, z: 0}
